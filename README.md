@@ -3,9 +3,10 @@
 [Omnifood]('https://effervescent-torte-454e6a.netlify.app')
 
 ### This is website it made using HTML, CSS, Javascript and Jquery
-![Omnifood Navigation](https://www.awesomescreenshot.com/image/41218044?key=a491726747a3ea84c3c9f9f522fb3688 "Navigation")
 ### The first section consiste of Navigation where I used Omnifood logo and links. I separate them using flexbox.
 ### The next section is Header where I use image overlay and image is fixed here.
 ### The following section consists about the functionalities about the restaurant. 
 ### Then I describe how user can order food with our app.
 ### The next section consists of our branches and review of the users.
+### Then we have contact section where user can contact us about the issues, suggestions, etc.
+### And at last we have footer where copyright and social media links of our website is given.
